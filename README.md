@@ -1,2 +1,2 @@
-# Starter ASP.NET Core MVC Project for Working with Identity
+# Starter ASP.NET Core/6 MVC Project for Working with Identity
 
