@@ -1,6 +1,9 @@
-using GroupOneMVCApp.Models;
+using IdentityProject.Models;
 using Microsoft.EntityFrameworkCore;
-using GroupOneMVCApp.Security;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
